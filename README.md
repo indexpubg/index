@@ -1,2 +1,2 @@
 # index
-#this is for test
+#this is only for test
