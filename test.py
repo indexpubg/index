@@ -3,7 +3,7 @@ import string
 import random
 from random import randint
 def id_generator(size=6, chars=string.ascii_uppercase + string.digits
-                 returnn ''.join(random.choice(chars) for _ in range(size))
+                 return ''.join(random.choice(chars) for _ in range(size))
                  
                 
 for i in range(30000)
